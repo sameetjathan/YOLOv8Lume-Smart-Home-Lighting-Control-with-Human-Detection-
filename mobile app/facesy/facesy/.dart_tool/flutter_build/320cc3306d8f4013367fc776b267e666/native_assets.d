@@ -1,0 +1,1 @@
+ C:\\Users\\My_Lap\\StudioProjects\\facesy\\.dart_tool\\flutter_build\\320cc3306d8f4013367fc776b267e666\\native_assets.yaml: 

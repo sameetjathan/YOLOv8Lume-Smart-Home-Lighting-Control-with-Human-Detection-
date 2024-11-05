@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://facelight-sync-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">603219804963</string>
+    <string name="google_api_key" translatable="false">AIzaSyByS9wL8l_eWbTo_FXhvjJvhLOXkq4VUwY</string>
+    <string name="google_app_id" translatable="false">1:603219804963:android:3fb2afc4a824e689f8c296</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyByS9wL8l_eWbTo_FXhvjJvhLOXkq4VUwY</string>
+    <string name="google_storage_bucket" translatable="false">facelight-sync.appspot.com</string>
+    <string name="project_id" translatable="false">facelight-sync</string>
+</resources>
